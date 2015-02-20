@@ -1,0 +1,3 @@
+[submodule "snanny-portal"]
+	path = snanny-portal
+	url = https://github.com/ifremer/snanny-portal.git
